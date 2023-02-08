@@ -67,3 +67,9 @@ body {
     box-shadow: 0 5px rgba(139, 0, 0, 0.90);
     transform: translateY(4px);
 }
+
+.fun {
+    background: #fc4a1a; 
+    background: -webkit-linear-gradient(to left, #f7b733, #fc4a1a);
+    background: linear-gradient(to left, #f7b733, #fc4a1a);
+}
